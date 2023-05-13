@@ -20,4 +20,14 @@ The electric car information on https://ev-database.org/ was scraped and made av
 
 The group cleaned the initial data set and saved it to 'clean_evcar_dataset.csv'. Folders were created for each question for team members to work on their questions and reference the same data set in the root folder to avoid manual re-work during collaboration and avoid merge conflicts.
 
+## Question 1 findings, sources, notes
+
+## Question 2 findings, sources, notes
+
+## Question 3 findings, sources, notes
+
+## Question 4 findings, sources, notes
+
 ## Group Presentation
+
+(Insert Deck link here)
