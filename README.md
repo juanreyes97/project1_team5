@@ -1,5 +1,6 @@
 # project1_team5
-Repository for project 1 Data Analytics
+# Electric Cars Industry
+Repository for project 1 Data Analytics Bootcamp
 
 ## Introduction 
 
