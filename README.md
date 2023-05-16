@@ -3,9 +3,7 @@
 Repository for project 1 Data Analytics Bootcamp
 
 ## Introduction 
-
-This goal of this project is to analyze market data for electric vehicles. The data is limited to low-cost electric vehicles in the UK and Germany. 
-The objective of this project is to conduct an in-depth analysis of data from the electric car industry to identify patterns, trends and/or future prospects
+The objective of this project is to conduct an in-depth analysis of data from the electric car industry to identify patterns or trends. The data is limited to low-cost electric vehicles in the UK and Germany. 
 
 ## Sources 
 
